@@ -4,7 +4,7 @@ const WebSocket = require("ws");
 const path = require("path");
 
 const app = express();
-const host = "192.168.1.119";
+const host = "localhost";
 const port = 3000;
 
 // Servidor HTTP y WebSocket

@@ -1,4 +1,4 @@
-const host = "192.168.1.119";
+const host = "localhost";
 const port = 3000;
 const socket = new WebSocket(`ws://${host}:${port}`);
 

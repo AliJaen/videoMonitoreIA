@@ -3,7 +3,7 @@ import time
 import random
 
 # URL del endpoint en el servidor Node.js
-url = "http://192.168.1.119:3000/api/detections"
+url = "http://localhost:3000/api/detections"
 
 # Variables de estado para cada cámara
 camera_states = {
