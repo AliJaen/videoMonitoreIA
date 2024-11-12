@@ -39,7 +39,7 @@ Este proyecto es el frontedn para mostrar Video por IP con renderización de det
 1. **Clona el repositorio** y navega al directorio del proyecto:
 
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/AliJaen/videoMonitoreIA
    cd tu_proyecto
    ```
 
