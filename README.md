@@ -40,7 +40,7 @@ Este proyecto es el frontedn para mostrar Video por IP con renderización de det
 
    ```bash
    git clone https://github.com/AliJaen/videoMonitoreIA
-   cd tu_proyecto
+   cd videoMonitoreIA
    ```
 
 2. **Instala las dependencias de Node.js**:
