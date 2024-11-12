@@ -1,0 +1,15 @@
+{
+  "name": "cmv-ia",
+  "version": "1.0.0",
+  "description": "Monitorización de video en tiempo real con detección de Vehículos detenidos y Personas con IA",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-run"
+  },
+  "author": "Alí Jaén Carmona",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "ws": "^8.18.0"
+  }
+}
